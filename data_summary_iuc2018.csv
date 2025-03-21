@@ -1,0 +1,6 @@
+variable,type,num_values,num_unique_values,num_nulls,proportion_nulls,min_length,max_length,min,max,mean,median,stddev
+SHP_ID,Numeric,41729,41729,0,0.0,,,1.0,41729.0,20865.0,20865.0,12046.269028209523
+LSOA11_CD,String,41729,41729,0,0.0,9,9,E01000001,W01001958,,,
+LSOA11_NM,String,41729,41576,0,0.0,4,63,[not shown],[not shown],,,
+GRP_CD,Numeric,41729,10,0,0.0,,,1.0,10.0,6.068417647199789,6.0,2.282252582535498
+GRP_LABEL,String,41729,10,0,0.0,10,29,[not shown],[not shown],,,

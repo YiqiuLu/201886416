@@ -1,0 +1,7 @@
+Variable,Description
+SHPID,Object ID
+LSOA11CD,Lower Super Output Area Code (2011)
+LSOA11NM,Lower Super Output Area Name (2011)
+GRPCD,Group Code
+GRP_LABEL,Group Label
+
